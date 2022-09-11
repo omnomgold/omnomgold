@@ -1,0 +1,2 @@
+# OmnomGold
+Omnom Gold webpage.
